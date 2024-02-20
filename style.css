@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+.bg{
+    background-color: rgb(249,206,206) ;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.noidung{
+   padding:10px 20px;
+}
+.menu{
+    background-color: rgb(66,0,0);
+    height: 30px
+}
+.menu ul{
+    display: flex;
+}
+.menu li{
+    color: white;
+    margin-left: 9%;
+    list-style: none;
+    margin-top: 5px;
+}
+.noidung2{
+    display: flex;
+}
+.taskbar{
+    background-color: rgb(157,111,104);
+    width: 20%;
+}
+.taskbar li{
+    list-style: none;
+    color: white;
+    margin-left:5%;
+
+}
